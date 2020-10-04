@@ -1,5 +1,5 @@
-# Learning makes people progress
 # 學習使人進步
+#***Learning makes people progress
 
 > An awesome project.
 *# docsify <small>3.5</small>*
@@ -15,5 +15,4 @@
 [GitHub-docsifyjs](https://github.com/docsifyjs/docsify/) 
 [Get Started docsify](*#docsify)
 
-![color](*#AFEEEE)*
 
