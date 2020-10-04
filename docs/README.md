@@ -1,5 +1,5 @@
 # 學習使人進步
-#***Learning makes people progress
+Learning makes people progress
 
 > An awesome project.
 *# docsify <small>3.5</small>*
